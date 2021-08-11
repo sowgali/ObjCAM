@@ -1,0 +1,22 @@
+ #python3 classify.py -f targeted_pig.jpg -gpu 0 -o out_targeted_pig.jpg
+ #python3 classify.py -f untargeted_pig.jpg -gpu 0 -o out_untargeted_pig.jpg
+python3 classify.py -f test1.jpg -gpu 0 -o out_test1.jpg
+python3 classify.py -f test2.jpg -gpu 0 -o out_test2.jpg
+python3 classify.py -f test3.jpg -gpu 0 -o out_test3.jpg
+python3 classify.py -f test4.jpg -gpu 0 -o out_test4.jpg
+python3 classify.py -f test5.jpg -gpu 0 -o out_test5.jpg
+python3 classify.py -f test6.jpg -gpu 0 -o out_test6.jpg
+python3 classify.py -f test7.jpg -gpu 0 -o out_test7.jpg
+python3 classify.py -f test8.jpg -gpu 0 -o out_test8.jpg
+python3 classify.py -f test9.jpg -gpu 0 -o out_test9.jpg
+python3 classify.py -f test10.jpg -gpu 0 -o out_test10.jpg
+python3 classify.py -f att_test1.jpg -gpu 0 -o out_att_test1.jpg
+python3 classify.py -f att_test2.jpg -gpu 0 -o out_att_test2.jpg
+python3 classify.py -f att_test3.jpg -gpu 0 -o out_att_test3.jpg
+python3 classify.py -f att_test4.jpg -gpu 0 -o out_att_test4.jpg
+python3 classify.py -f att_test5.jpg -gpu 0 -o out_att_test5.jpg
+python3 classify.py -f att_test6.jpg -gpu 0 -o out_att_test6.jpg
+python3 classify.py -f att_test7.jpg -gpu 0 -o out_att_test7.jpg
+python3 classify.py -f att_test8.jpg -gpu 0 -o out_att_test8.jpg
+python3 classify.py -f att_test9.jpg -gpu 0 -o out_att_test9.jpg
+python3 classify.py -f att_test10.jpg -gpu 0 -o out_att_test10.jpg
